@@ -1,6 +1,8 @@
 # Mouse Cheese Problem
 Enter the number of TC's
+
 Enter the No of cheese blocks in 1 line
+
 Enter weight of each cheese in [KG] separated by 1 space
 
 Sample I/O:
